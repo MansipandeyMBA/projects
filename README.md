@@ -1,4 +1,4 @@
-Retail Sales Analysis – SQL Project
+Retail Sales Analysis SQL Project
 📌 Project Overview
 Title: Retail Sales Analysis
 Difficulty: Beginner
