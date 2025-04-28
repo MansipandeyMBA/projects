@@ -63,7 +63,6 @@ WHERE
 
  
 -- Data Analysis & Business Key Problems & Answers
--- Data Analysis & Business Key Problems & Answers
 
 -- My Analysis & Findings
 -- Q.1 Write a SQL query to retrieve all columns for sales made on '2022-11-05
